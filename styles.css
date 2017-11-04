@@ -7,6 +7,11 @@
 body {
   margin: 0;
   padding: 0;
+<<<<<<< Updated upstream
+=======
+  font-family: 'Source Sans Pro', sans-serif;
+  background: url(images/bg-pattern.png) repeat center;
+>>>>>>> Stashed changes
 }
 
 header {
@@ -17,6 +22,10 @@ main {
   max-width: 800px;
   margin: 0 auto var(--footer-height);
   text-align: center;
+}
+
+.content {
+  background-color: white;
 }
 
 ul {
