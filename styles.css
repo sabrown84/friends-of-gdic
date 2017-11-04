@@ -7,11 +7,17 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 header {
     background: black;
 }
+
+h1, h2 {
+  font-family: 'Patrick Hand SC', cursive;
+}
+
 
 main {
   max-width: 800px;
@@ -25,6 +31,9 @@ ul {
   padding: 0;
 }
 
+li {
+  padding: 5px;
+}
 footer {
     width: 100%;
     position: fixed;
